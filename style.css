@@ -17,13 +17,8 @@ body{
 }
 
 .box{
-	height: 50%;
-	width: 50%;
-}
-.narrow-col{
-	height:70vh;
-	width:25vw;
-	display:block;
+	height: 100%;
+	width: 25%;
 }
 
 
@@ -35,11 +30,14 @@ body{
 
 @media screen and (max-width:800px){
 	.column-1{
-		height: 50vh;
-		width: 100vw;
+		height: 40vh;
 	}
 	.column-2{
-		height: 50vh;
-		width: 100vw;
+		height: 60vh;
+	}
+	
+	.box{
+	height: 50%;
+	width: 50%;
 	}
 }
