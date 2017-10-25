@@ -4,7 +4,11 @@ body{
 	display: flex;
 	flex-wrap: wrap;
 }
-
+img {
+	content:url(sunset1.jpg);
+	height:40%;
+	width: 20%;
+}
 .column-1{
 	height: 30vh;
 	width: 100vw;
