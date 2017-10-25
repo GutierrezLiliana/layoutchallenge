@@ -35,4 +35,8 @@ body{
 	.column-2{
 		height: 60vh;
 	}
+	.box{
+	height: 50%;
+	width: 50%;
+	}
 }
