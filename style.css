@@ -9,6 +9,11 @@ img {
 	height:40%;
 	width: 20%;
 }
+img {
+	content:url(sunset2.JPG);
+	height:40%;
+	width: 20%;
+}
 .column-1{
 	height: 30vh;
 	width: 100vw;
