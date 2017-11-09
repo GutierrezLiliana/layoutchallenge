@@ -7,6 +7,7 @@ body{
 img {
 	content:url(sunset1.JPG);
 	height: 100%;
+	width:25%;
 }
 .column-1{
 	height: 30vh;
