@@ -6,8 +6,8 @@ body{
 }
 img {
 	content:url(sunset1.JPG);
-	height:40%;
-	width: 20%;
+	height: 70vh;
+	width: 100vw;
 }
 .column-1{
 	height: 30vh;
