@@ -9,6 +9,11 @@ img {
 	height: 70vh;
 	width:100vw;
 }
+img {
+	content:url(sunset2.JPG);
+	height: 70vh;
+	width:100vw;
+}
 .column-1{
 	height: 30vh;
 	width: 100vw;
