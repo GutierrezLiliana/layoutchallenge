@@ -19,12 +19,6 @@ img {
 	display: flex;
 	flex-wrap: wrap;
 }
-img {
-	content:url(flower.JPG);
-	height: 70vh;
-	width:100vw;
-	background-repeat:no-repeat;
-}
 .box{
 	height: 100%;
 	width: 25%;
