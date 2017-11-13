@@ -4,10 +4,17 @@ body{
 	display: flex;
 	flex-wrap: wrap;
 }
-img {
+.sunset1{
 	content:url(sunset1.JPG);
-	height: 70vh;
-	width:100vw;
+}
+.flower{
+	content:url(flower.JPG);
+}
+.eclipse{
+	content:url(eclipse.JPG);
+}
+.flower2{
+	content:url(flower2.JPG);
 }
 .column-1{
 	height: 30vh;
