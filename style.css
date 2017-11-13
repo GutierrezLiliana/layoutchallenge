@@ -17,8 +17,8 @@ body{
 .eclipse{
 	content:url(eclipse.png);
 }
-.flower2{
-	content:url(flower2.png);
+.flower2(1){
+	content:url(flower2(1).png);
 }
 .column-1{
 	height: 30vh;
