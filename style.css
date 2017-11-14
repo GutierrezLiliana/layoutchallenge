@@ -50,7 +50,18 @@ body{
 		height: 60vh;
 		width: 60vw;
 	}
-	
+	.sunset1 {
+    		width: 50vw;
+  }
+	.sunset3 {
+    		width: 50vw;
+  }
+	.eclipse2 {
+    		width: 50vw;
+  }
+	.sunset4 {
+    		width: 50vw;
+  }
 	.box{
 	height: 50%;
 	width: 50%;
