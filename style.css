@@ -4,21 +4,9 @@ body{
 	display: flex;
 	flex-wrap: wrap;
 }
-.image{
-	width:50%;
-	height:50%;
-}
-.sunset1{
-	content:url(sunset1.png);
-}
-.sunset3{
-	content:url(sunset3.png);
-}
-.eclipse2{
-	content:url(eclipse2.png);
-}
-.sunset4{
-	content:url(sunset4.png);
+
+img {
+	width:100%;
 }
 .column-1{
 	height: 30vh;
